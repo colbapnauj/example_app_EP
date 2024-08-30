@@ -13,11 +13,11 @@ Este proyecto es una prueba técnica desarrollada en Flutter para demostrar mis 
    git clone https://github.com/tu_usuario/tu_repositorio.git
    ```
 2. Obtener dependencias
-   ````bash
+   ```bash
    flutter pub get
    ```
 3. Ejecutar
-   ````bash
+   ```bash
    flutter run
    ```
 
